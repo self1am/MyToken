@@ -1,5 +1,5 @@
-const MyToken = artifacts.require("MyToken");
+const Token = artifacts.require('Token');
 
-module.exports = function (deployer) {
-    deployer.deploy(MyToken, 1000000000); // 1 Billion Tokens
+module.exports = (deployer) => {
+    deployer.deploy(Token);
 };
