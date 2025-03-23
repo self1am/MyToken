@@ -28,7 +28,7 @@ To get started with MyToken, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/MyToken.git
+    git clone https://github.com/self1am/MyToken.git
     ```
 2. Navigate to the project directory:
     ```bash
